@@ -1,1 +1,1 @@
-insert into table1 select * from table2;
+insert into table1 select * from table2;ww
